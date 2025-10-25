@@ -1,10 +1,10 @@
-# Aplicação Prática de Python na Ciência dos Dados  
+# Aplicação Prática de Python na Ciência dos Dados
 
 **Aluno:** Carlos Henrique Marques de Oliveira  
 **Professor:** Sergio Ricardo  
 **Instituição:** Unigranrio  
 
-Este repositório contém os códigos e saídas referentes ao trabalho da disciplina **Aplicação Prática de Python na Ciência dos Dados**.  
+Este repositório contém os códigos e saídas referentes ao trabalho da disciplina **Aplicação Prática de Python na Ciência dos Dados**.
 
 ## 📂 Arquivos
 - `Aplicacao_Pratica_Python_Carlos_Henrique.docx` — Documento Word formatado com os códigos e saídas.
@@ -20,3 +20,8 @@ Este repositório contém os códigos e saídas referentes ao trabalho da discip
 7. Resumo estatístico
 8. Contagem de valores categóricos
 9. Verificação de valores faltantes
+
+---
+
+🧠 **Observação:**  
+Todos os códigos foram executados em ambiente Jupyter Notebook, com simulações das saídas esperadas para facilitar a visualização dos resultados.
